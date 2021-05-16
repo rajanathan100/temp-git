@@ -4,4 +4,5 @@ Test report for my laptop C:\Temp\Git test
 Test1
 Test2
 Test3
+Test4
 
